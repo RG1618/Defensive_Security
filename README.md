@@ -1,6 +1,9 @@
 # Defensive Security Project
-## Description
-* Analyzed logs for attacks on VSI Corporation's Windows and Apache Servers.
-* Developed a monitoring solution with alerts, reports, and graphs.
-## Tools/Technologies
-* Splunk, WHOis XML, Website Monitoring
+## Description:
+* Analyzed logs for key incidents and/or attacks on VSI Corporation's Windows & Apache servers using Splunk
+* Developed a Splunk-based monitoring solution to generate detailed reports and real-time alerts, analysis, and performance tracking
+
+* Collaborators: Kelly Hale & Sam Heaps
+
+## Tools/Technologies:
+* Splunk, WHOis XML & Website Monitoring add-ons
